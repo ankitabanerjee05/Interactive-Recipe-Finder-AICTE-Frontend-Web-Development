@@ -17,9 +17,9 @@ Search for recipes, filter by categories, explore ingredients with images, and s
 
 ---
 
-## 🚀 Demo
+## 🚀 Web App
 
-👉 [Live Demo](#)   
+👉 [Live Demo](https://ankitabanerjee05.github.io/Interactive-Recipe-Finder-AICTE-Frontend-Web-Development/)   
 
 # App Screenshots 
 
