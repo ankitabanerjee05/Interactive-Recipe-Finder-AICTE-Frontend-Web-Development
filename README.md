@@ -21,8 +21,11 @@ Search for recipes, filter by categories, explore ingredients with images, and s
 
 👉 [Live Demo](#)   
 
-![App Screenshot] <img width="1898" height="909" alt="image" src="https://github.com/user-attachments/assets/8fabf2d4-9faf-4ec6-89fa-2594618c8f2a" />
+[App Screenshot] 
+In Dark Mode
+<img width="1898" height="909" alt="image" src="https://github.com/user-attachments/assets/8fabf2d4-9faf-4ec6-89fa-2594618c8f2a" />
 --
+In Light Mode
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/4346443a-e100-4a94-93eb-7a5d1c63fd79" />
 --
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/94ed7a3e-db5c-4477-944e-deb3a510f8c6" />
