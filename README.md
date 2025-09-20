@@ -19,12 +19,14 @@ Search for recipes, filter by categories, explore ingredients with images, and s
 
 ## 🚀 Demo
 
-👉 [Live Demo](#) *(Add your GitHub Pages / Netlify link here once deployed)*  
+👉 [Live Demo](#)   
 
 ![App Screenshot] <img width="1898" height="909" alt="image" src="https://github.com/user-attachments/assets/8fabf2d4-9faf-4ec6-89fa-2594618c8f2a" />
 --
 <img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/4346443a-e100-4a94-93eb-7a5d1c63fd79" />
+--
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/94ed7a3e-db5c-4477-944e-deb3a510f8c6" />
+--
 <img width="1891" height="905" alt="image" src="https://github.com/user-attachments/assets/8b6ec1b5-3668-41b8-a6fb-fb3a4d06d24d" />
 
 
