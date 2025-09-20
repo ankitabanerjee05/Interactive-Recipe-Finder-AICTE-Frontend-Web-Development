@@ -39,9 +39,9 @@ After Using the Filters
 <img width="1891" height="905" alt="image" src="https://github.com/user-attachments/assets/8b6ec1b5-3668-41b8-a6fb-fb3a4d06d24d" />
 --
 
-**After Searching "Cake"**
+After Searching "Cake"
 <img width="1884" height="900" alt="image" src="https://github.com/user-attachments/assets/f7f1f68b-9a18-4945-bbde-957c67261b56" />
-
+--
 
 
 ---
