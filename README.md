@@ -21,7 +21,7 @@ Search for recipes, filter by categories, explore ingredients with images, and s
 
 👉 [Live Demo](#)   
 
-[App Screenshot] 
+# App Screenshots 
 In Dark Mode
 <img width="1898" height="909" alt="image" src="https://github.com/user-attachments/assets/8fabf2d4-9faf-4ec6-89fa-2594618c8f2a" />
 --
