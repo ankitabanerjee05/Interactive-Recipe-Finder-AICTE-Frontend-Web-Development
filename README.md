@@ -34,15 +34,18 @@ In Light Mode
 --
 
 After Opening the Recipe
-<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/94ed7a3e-db5c-4477-944e-deb3a510f8c6" />
+<img width="1850" height="877" alt="image" src="https://github.com/user-attachments/assets/5cb3dbcb-9bfe-4756-9819-91d0421bdf73" />
+
 --
 
 After Using the Filters 
-<img width="1891" height="905" alt="image" src="https://github.com/user-attachments/assets/8b6ec1b5-3668-41b8-a6fb-fb3a4d06d24d" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/579ab298-51ad-4171-a43c-638beb9a79f5" />
+
 --
 
 After Searching "Cake"
-<img width="1884" height="900" alt="image" src="https://github.com/user-attachments/assets/f7f1f68b-9a18-4945-bbde-957c67261b56" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/867b6898-8e94-468a-aa6d-95b7bd2643f3" />
+
 --
 
 
